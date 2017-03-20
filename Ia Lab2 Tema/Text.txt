@@ -1,0 +1,145 @@
+
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ 
+ 
+ 
+ O Solutie este : 
+
+
+ Clasa :0 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :4 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :5 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :3 |    Tip : Baiat |    Nr de ordine al clasei : 1
+ Clasa :2 |    Tip : Fata  |    Nr de ordine al clasei : 1
+ Clasa :1 |    Tip : Baiat |    Nr de ordine al clasei : 1
