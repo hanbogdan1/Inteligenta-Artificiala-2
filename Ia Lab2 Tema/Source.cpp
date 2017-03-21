@@ -119,10 +119,8 @@ public:
 		for (auto i = elevi.begin(); i != elevi.end() - 1; i++)
 			if (*i == elevi.back())
 				return false;
-
 		if (elevi.size() > 1 && elevi.back().tip == (elevi.end() - 2)->tip)
 			return false;
-		
 		if (elevi.size() == total_elevi)
 			if (elevi.back().clasa == elevi.front().clasa || elevi.back().tip == elevi.front().tip)
 				return false;
